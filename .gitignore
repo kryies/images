@@ -1,0 +1,14 @@
+.DS_Store
+*.md
+*.java
+*.py
+*.class
+*.xml
+*.properties
+*.db
+*.meta
+*.lst
+target/
+.idea/
+watermarked/
+test_*
